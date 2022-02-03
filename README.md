@@ -2,7 +2,7 @@
 
 **Uma moderna introdução ao JavaScript, programação e maravilhas digitais.**
 
-![JavaScript Eloquente](img/eloq-js.png)
+![JavaScript Eloquente](img/eloq-js.png) asdasdqs
 
 ## Conteúdo do Livro
 
